@@ -1,6 +1,5 @@
-# wp-copyright-protection
+# WP COPYRIGHT PROTECTION
 A simple way to protect the content on your wordpress website.
-
 
 # Features
 
