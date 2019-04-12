@@ -1,6 +1,13 @@
 # wp-copyright-protection
 A simple way to protect the content on your wordpress website.
 
+
+# Features
+
+- Disables right click
+- Disables text selection 
+- Disables text, image drag & drop
+
 # Installation
 
 Install, activate and you’re done.
