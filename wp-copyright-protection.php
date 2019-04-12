@@ -129,7 +129,7 @@ function wp_copyright_protection()
     if (!wpcp_is_excluded() && !wpcp_is_disabled()) {
 
         ?>
-        <!-- Copyright protection script by daveligthart.com -->
+        <!-- Copyright protection script -->
         <meta http-equiv="imagetoolbar" content="no">
         <script>
             /*<![CDATA[*/
@@ -201,12 +201,10 @@ function wp_copyright_protection()
             }
 
         </style>
-        <!-- End Copyright protection script by daveligthart.com -->
+        <!-- End Copyright protection script -->
 
         <!-- Source hidden -->
 
-
-        <!-- :-) -->
         <?php
     }
 }
