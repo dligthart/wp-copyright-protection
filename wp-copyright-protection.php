@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP-Copyright-Protection
-Plugin URI: https://www.trivetechnology.com
+Plugin URI: https://github.com/dligthart/wp-copyright-protection
 Description: A simple way to add copyright protection to your website. Disables text copy, image copy and breaks out of iframe.
 Author: dave.ligthart
 Version: 1.5
