@@ -6,6 +6,7 @@ A simple way to protect the content on your wordpress website.
 - Disables right click
 - Disables text selection 
 - Disables text, image drag & drop
+- Iframe protection keeps your site out of an iframe
 
 # Installation
 
