@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WP-Copyright-Protection
-Plugin URI: https://www.triveamsterdam.com
+Plugin URI: https://www.trivetechnology.com
 Description: A simple way to add copyright protection to your website. Disables text copy, image copy and breaks out of iframe.
-Author: Trive.amsterdam
+Author: dave.ligthart
 Version: 1.5
-Author URI: https://www.triveamsterdam.com
+Author URI: https://www.trivetechnology.com
 */
 
 /**
