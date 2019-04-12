@@ -1,9 +1,11 @@
 === WP-Copyright-Protection ===
-Contributors: Trive.amsterdam
+Contributors: dave.ligthart
+Donate link: https://trivetechnology.com
 Tags: copyright,protection,copy,protect
 Requires at least: 2.3
 Tested up to: 5.1.1
-Stable tag: trunk
+Stable tag: 1.5
+
 
 Simple copyright protection for your images and text.
 
