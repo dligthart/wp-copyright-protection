@@ -2,7 +2,7 @@
 /**
  * Settings.
  *
- * @author Dave Ligthart <info@daveligthart.com>
+ * @author Trive.amsterdam
  * @package wpcp
  * @subpackage view
  * @version 0.1
@@ -39,13 +39,13 @@
     </form>
 
     <div id="hero" class="section-hero">
-        <a href="https://www.triveamsterdam.com" target="_blank" class="link-logo w-inline-block w--current"><img
+        <a href="https://www.trivetechnology.com" target="_blank" class="link-logo w-inline-block w--current"><img
                     src="<?php echo plugin_dir_url(__FILE__); ?>/assets/image/logo.svg"
                     width="180" alt="">
         </a>
         <div class="div-hero-text">
             <h1 class="h1 hero">
-                Enabling companies to insource technical innovation and scale up capacity.
+                Trive means making your projects flourish with a fully focused and reliable development team. 
             </h1>
         </div>
         <div class="banner_text">
@@ -106,9 +106,9 @@
 </div>
 
 <div class="wpcp-footer">
-    <span>By</span> <a href="https://www.triveamsterdam.com" target="_blank" title="Created by Trive.amsterdam">
+    <span>By</span> <a href="https://www.trivetechnology.com" target="_blank" title="Created by Trive Technology">
         <span>
-            Trive.amsterdam
+            Trive Technology
         </span>
     </a>
     <cite>Happy to be of service.</cite>
