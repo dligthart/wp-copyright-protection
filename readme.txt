@@ -49,3 +49,5 @@ Prevent image save iOS.
 Fixed Firefox dropdown issue.
 
 = Version 1.5 =
+
+Compatibility fixes
