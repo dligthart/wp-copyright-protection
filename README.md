@@ -20,4 +20,9 @@ The WordPress Plugin was started in 2012 by Dave Ligthart and has since included
 This plugin has over 100K (104,374) downloads.
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
-[![Wordpress: Tested](https://img.shields.io/wordpress/plugin/tested/wp-copyright-protection.svg)](https://wordpress.org)
+[![Wordpress: Tested](https://img.shields.io/wordpress/plugin/tested/wp-copyright-protection.svg)](https://wordpress.org/plugins/wp-copyright-protection/)
+[![Wordpress: Downloads](https://img.shields.io/wordpress/plugin/dt/wp-copyright-protection.svg)](https://wordpress.org/plugins/wp-copyright-protection/)
+[![Wordpress: Active Installs](https://img.shields.io/wordpress/plugin/installs/wp-copyright-protection.svg)](https://wordpress.org/plugins/wp-copyright-protection/)
+
+
+
