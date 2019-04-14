@@ -1,7 +1,7 @@
 === WP-Copyright-Protection ===
 Contributors: dave.ligthart
 Donate link: https://trivetechnology.com
-Tags: copyright,protection,copy,protect,no right click,content protection,image protection
+Tags: copyright,protection,no right click,content protection,image protection,copy,protect
 Requires at least: 2.3
 Tested up to: 5.1.1
 Stable tag: 1.5
