@@ -6,7 +6,6 @@ Requires at least: 2.3
 Tested up to: 5.1.1
 Stable tag: 1.5
 
-
 Simple copyright protection for your images and text.
 
 == Description ==
