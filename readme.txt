@@ -3,8 +3,8 @@ Contributors: dave.ligthart
 Donate link: https://trivetechnology.com
 Tags: copyright,protection,no right click,content protection,image protection,copy,protect
 Requires at least: 2.3
-Tested up to: 5.1.1
-Stable tag: 1.5
+Tested up to: 5.2.2
+Stable tag: 1.6
 
 Simple copyright protection for your images and text.
 
@@ -52,3 +52,8 @@ Fixed Firefox dropdown issue.
 = Version 1.5 =
 
 Compatibility fixes
+
+= Version 1.6 =
+
+Tested: WordPress version: 5.2.2, compatible
+Fixed filling of the form fields in iOS
